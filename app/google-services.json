@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94295746485",
+    "project_id": "earningapp-69b7e",
+    "storage_bucket": "earningapp-69b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94295746485:android:43a05d9a64cbbadb60dbfc",
+        "android_client_info": {
+          "package_name": "com.example.earningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94295746485-5mlh97qqlna7gfcv9nii2runvnf0t5ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydJTE0YLJCmukati5PGaGkwqcXYuqpzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94295746485-5mlh97qqlna7gfcv9nii2runvnf0t5ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
